@@ -1,21 +1,30 @@
 ## **🤖ALL OF MY 01-05 AGENTIC-AI-STEPS✔️....👇**
+
      *are linked down below!!*
+     
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**01_UV** 🤯
+**DOC ON UNDERSTANDING AI**🖇️
+***
+**link**:"https://github.com/Ae8y2la/01-05-Agentic-AI-Steps/blob/main/Doc%20on%20AI.pdf"
+***
+A **PDF** to make you **understand AI** and its **BASICS** betterly!!
+***
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**01_UV** ☀️
 ***
 **link**:"https://github.com/Ae8y2la/01-UV.git"
 ***
 A Python project exploring UV (Ultra-Violet) packaging and dependency management.🕸️
 ***
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**02-OPEN-ROUTER** 🤯
+**02-OPEN-ROUTER** 📂
 ***
 **link**:"https://github.com/Ae8y2la/02-OpenRouter.git"
 ***
 A minimalist terminal-based chatbot powered by OpenRouter and the deepseek-chat-v3 model. Built with async Python, it’s blazing fast and super chill to work with.
 ***
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**03-LITELLM-OPENAI-AGENT** 🤯
+**03-LITELLM-OPENAI-AGENT** 💪🏻
 ***
 **link**:"https://github.com/Ae8y2la/03--litellm--openai--agent--.git"
 ***
@@ -26,7 +35,7 @@ Ever wondered what the weather feels like in verse? Meet Weather Bard—your AI-
 [![DEMO VIDEO](https://img.shields.io/badge/%F0%9F%8E%A5_Watch_Now-9146FF?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/14BnNqewbfotxfUgFd-lQKXVoeqzo59CC/view?usp=sharing)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**04-HELLO-AGENT** 🤯
+**04-HELLO-AGENT** 🙋🏻‍♀️
 ***
 **link**:"https://github.com/Ae8y2la/04-hello-agent.git"
 ***
@@ -37,7 +46,7 @@ This project is a clean, sync-and-async Python wrapper for interacting with Goog
 [![DEMO VIDEO](https://img.shields.io/badge/%F0%9F%8E%A5_Watch_Now-9146FF?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1KzUDLb-O8C0SqPjswyYuWmBl7ge0_KfX/view?usp=sharing)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**05-CHAINLIT** 🤯
+**05-CHAINLIT** ✨
 ***
 **link**:"https://github.com/Ae8y2la/05-chainlit.git"
 ***
